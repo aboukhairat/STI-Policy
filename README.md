@@ -1,2 +1,2 @@
 # STI-Policy
-Zanzibar STI Policies
+Zanzibar STI based Policies
